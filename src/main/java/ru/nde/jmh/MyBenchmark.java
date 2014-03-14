@@ -1,4 +1,4 @@
-package ru.nde;
+package ru.nde.jmh;
 
 import org.openjdk.jmh.annotations.GenerateMicroBenchmark;
 

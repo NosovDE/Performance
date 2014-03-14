@@ -1,4 +1,4 @@
-package ru.nde;
+package ru.nde.jmh;
 
 import org.openjdk.jmh.annotations.GenerateMicroBenchmark;
 import org.openjdk.jmh.annotations.Scope;
@@ -8,7 +8,6 @@ import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * @author: Dmitriy E. Nosov <br>
- * @email: dmitriy.nosov@developonbox.ru <br>
  * @date: 14.03.14 12:20 <br>
  * @description: <br>
  */
